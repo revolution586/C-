@@ -35,6 +35,7 @@ namespace Pacman
 			}
 		}
 	}
+// The following game code is not only for making a Gameboard in Pacman, but perhaps some sudo code for my StudyHub project //
 				
 				
 
