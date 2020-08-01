@@ -1,2 +1,2 @@
 # C#
-This repository is for source code within games made from C++.
+Source code for games manually made with C#.
